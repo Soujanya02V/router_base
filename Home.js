@@ -1,3 +1,4 @@
+//all the components which need to be present in home should be imported 
 import {Link} from 'react-router-dom'
 function Home(){
     return<>
